@@ -1,9 +1,6 @@
 # ani-cli-win
-A tool to scrape anime from goganime using WSL and MVP tools
+A tool to scrape anime from goganime using WSL and MVP tools in Windows. Tested working on Win10
 
-# ani-cli-wsl
-
-This version allows you to use it in wsl, and video output shows in mpv that's installed in windows.
 
 ## Instalation
 
