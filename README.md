@@ -3,7 +3,7 @@ A tool to scrape anime from goganime using WSL and MVP tools in Windows. Tested 
 
 
 ## Instalation
-
+-Install [wsl] (https://docs.microsoft.com/en-us/windows/wsl/install) in windows
 - Install [mpv](https://mpv.io/installation/) in Windows
 - go into your wsl and type:
 	-  git clone https://github.com/game1men/ani-cli-wsl
